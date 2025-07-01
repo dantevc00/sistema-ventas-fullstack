@@ -9,8 +9,6 @@ Este proyecto busca ser una instancia de aprendizaje integral, permitiendo:
 - Desarrollar una interfaz web dinámica con React
 - Integrar análisis de datos y visualizaciones
 
-This is a personal project combining backend, frontend and data analytics, with the goal of developing full stack skills for building web apps related to product and sales management.
-
 ## Tecnologías / Technologies
 
 - **Backend:** FastAPI + PostgreSQL
