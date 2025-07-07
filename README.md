@@ -9,20 +9,20 @@ Este proyecto busca ser una instancia de aprendizaje integral, permitiendo:
 - Desarrollar una interfaz web dinámica con React
 - Integrar análisis de datos y visualizaciones
 
-## Tecnologías / Technologies
+## Tecnologías 
 
 - **Backend:** FastAPI + PostgreSQL
 - **Frontend:** React + TailwindCSS + Chart.js
 - **Data Analysis:** Python (Pandas, Matplotlib), Looker Studio
 
-## Objetivo / Goal
+## Objetivo 
 
 - Registrar productos y ventas
 - Visualizar reportes dinámicos
 - Integrar paneles analíticos
 - Aplicar buenas prácticas full stack
 
-## Estructura del Proyecto / Project Structure
+## Estructura del Proyecto 
 - `/backend`: API REST
 - `/frontend`: Interfaz web
 - `/data_analysis`: scripts y reportes
