@@ -36,10 +36,10 @@ Este proyecto busca ser una instancia de aprendizaje integral, permitiendo:
 - [x] Estructuración inicial del repositorio y documentación base
 
 ### Fase 2 – Backend con FastAPI
-- [ ] Diseño del modelo de datos (productos, usuarios, ventas)
+- [x] Diseño del modelo de datos (productos, usuarios, ventas)
 - [ ] Configuración de la base de datos PostgreSQL
-- [ ] Implementación de rutas CRUD (productos, ventas, usuarios)
-- [ ] Gestión de errores y validaciones con Pydantic
+- [x] Implementación de rutas CRUD (productos, ventas, usuarios)
+- [x] Gestión de errores y validaciones con Pydantic
 - [ ] Variables de entorno y conexión segura (.env)
 
 ### Fase 3 – Frontend con React
