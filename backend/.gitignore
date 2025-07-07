@@ -1,0 +1,29 @@
+# Entorno virtual
+venv/
+.venv/
+
+# Archivos de configuración del editor (VSCode, PyCharm, etc.)
+*.code-workspace
+.vscode/
+.idea/
+
+# Archivos Python compilados
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Archivos de persistencia locales
+productos.json
+ventas.json
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de exportación temporales
+*.csv
